@@ -1,5 +1,5 @@
-# Web Sockets
----
+# Rook IO: Web Sockets
+
 ## Server
 A web server will need to control communication between all Web Socket Clients. This is similar to how an MQTT broker would facilitate communication between multiple MQTT Clients. This will typically be part of your [Rook Daemon](https://github.com/RoboticsOrchestrationKit/rook-daemon-java) deployment, which will also facilitate communication between both MQTT and Web Socket Clients.
 
