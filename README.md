@@ -1,4 +1,5 @@
-# Rook: **Ro**botics** O**rchestration **K**it
+# Rook
+<pre><b>Ro</b>botics <b>O</b>rchestration <b>K</b>it
 
 ## Description
 Rook aims to improve interoperability of robotics code and provide tools to make it easier to get started.
